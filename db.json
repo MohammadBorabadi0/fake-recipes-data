@@ -1,22 +1,100 @@
 {
-  "books": [
+  "recipes": [
     {
       "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    }
-  ],
-  "products": [
+      "name": "Beef Wellington",
+      "price": 13,
+      "discount": 10,
+      "Cuisine": "British",
+      "Recipe Type": "Beef",
+      "Difficulty": "Medium",
+      "Preparation Time": "50 mins",
+      "Cooking Time": "45 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-grass-fed-beef-foodservice-products-grass-run-farms-4.png"
+    },
     {
-      "id": 1,
-      "name": "S21 Ultra",
-      "price": 1200
+      "id": 2,
+      "name": "Peking duck",
+      "price": 8,
+      "discount": 0,
+      "Cuisine": "Chinese",
+      "Recipe Type": "Duck",
+      "Difficulty": "Easy",
+      "Preparation Time": "10 mins",
+      "Cooking Time": "60 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-sutherland-foodservice-12.png"
+    },
+    {
+      "id": 3,
+      "name": "Shakshuka",
+      "price": 9,
+      "discount": 0,
+      "Cuisine": "Middle Eastern",
+      "Recipe Type": "Eggs",
+      "Difficulty": "Easy",
+      "Preparation Time": "20 mins",
+      "Cooking Time": "5 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/true-food-kitchen-35.png"
+    },
+    {
+      "id": 4,
+      "name": "Laksa",
+      "price": 5,
+      "discount": 0,
+      "Cuisine": "Malaysian",
+      "Recipe Type": "Soup",
+      "Difficulty": "Easy",
+      "Preparation Time": "5 mins",
+      "Cooking Time": "10 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-central-gyros-the-best-gyros-chicago-15.png"
+    },
+    {
+      "id": 5,
+      "name": "Clam chowder",
+      "price": 10,
+      "discount": 0,
+      "Cuisine": "American",
+      "Recipe Type": "Soup",
+      "Difficulty": "Hard",
+      "Preparation Time": "10 mins",
+      "Cooking Time": "30 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-plate-png-transparent-image-pngpix-2.png"
+    },
+    {
+      "id": 6,
+      "name": "Ramen",
+      "price": 12,
+      "discount": 0,
+      "Cuisine": "Japanese",
+      "Recipe Type": "Ramen",
+      "Difficulty": "Hard",
+      "Preparation Time": "5 mins",
+      "Cooking Time": "10 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-home-nanoosh-20.png"
+    },
+    {
+      "id": 7,
+      "name": "Cacio e pepe",
+      "price": 20,
+      "discount": 0,
+      "Cuisine": "Italian",
+      "Recipe Type": "Pasta",
+      "Difficulty": "Easy",
+      "Preparation Time": "5 mins",
+      "Cooking Time": "10 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-png-transparent-images-png-only-5.png"
+    },
+    {
+      "id": 8,
+      "name": "Boeuf bourguignon",
+      "price": 34,
+      "discount": 0,
+      "Cuisine": "French",
+      "Recipe Type": "Main",
+      "Difficulty": "Medium",
+      "Preparation Time": "200 mins",
+      "Cooking Time": "135 mins",
+      "image": "https://www.freepnglogos.com/uploads/food-png/food-plate-png-transparent-image-pngpix-14.png"
     }
   ]
 }
