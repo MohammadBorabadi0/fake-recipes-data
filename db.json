@@ -10,6 +10,7 @@
       "Difficulty": "Medium",
       "Preparation Time": "50 mins",
       "Cooking Time": "45 mins",
+      "calories": 95,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-grass-fed-beef-foodservice-products-grass-run-farms-4.png"
     },
     {
@@ -22,6 +23,7 @@
       "Difficulty": "Easy",
       "Preparation Time": "10 mins",
       "Cooking Time": "60 mins",
+      "calories": 87,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-sutherland-foodservice-12.png"
     },
     {
@@ -34,6 +36,7 @@
       "Difficulty": "Easy",
       "Preparation Time": "20 mins",
       "Cooking Time": "5 mins",
+      "calories": 32,
       "image": "https://www.freepnglogos.com/uploads/food-png/true-food-kitchen-35.png"
     },
     {
@@ -46,6 +49,7 @@
       "Difficulty": "Easy",
       "Preparation Time": "5 mins",
       "Cooking Time": "10 mins",
+      "calories": 90,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-central-gyros-the-best-gyros-chicago-15.png"
     },
     {
@@ -58,6 +62,7 @@
       "Difficulty": "Hard",
       "Preparation Time": "10 mins",
       "Cooking Time": "30 mins",
+      "calories": 100,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-plate-png-transparent-image-pngpix-2.png"
     },
     {
@@ -70,6 +75,7 @@
       "Difficulty": "Hard",
       "Preparation Time": "5 mins",
       "Cooking Time": "10 mins",
+      "calories": 56,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-home-nanoosh-20.png"
     },
     {
@@ -82,6 +88,7 @@
       "Difficulty": "Easy",
       "Preparation Time": "5 mins",
       "Cooking Time": "10 mins",
+      "calories": 78,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-png-transparent-images-png-only-5.png"
     },
     {
@@ -94,6 +101,7 @@
       "Difficulty": "Medium",
       "Preparation Time": "200 mins",
       "Cooking Time": "135 mins",
+      "calories": 89,
       "image": "https://www.freepnglogos.com/uploads/food-png/food-plate-png-transparent-image-pngpix-14.png"
     }
   ]
